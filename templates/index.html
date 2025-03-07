@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DNS Spoofing Detection</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background: #222; color: white; }
+        h1 { color: #00ffcc; }
+        .log-container { width: 60%; margin: auto; background: #333; padding: 15px; border-radius: 10px; }
+        .log { font-size: 16px; padding: 5px; border-bottom: 1px solid gray; }
+        .alert { color: red; font-weight: bold; }
+    </style>
+    <script>
+        function fetchLogs() {
+            fetch('/logs')
+                .then(response => response.json())
+                .then(data => {
+                    let logContainer = document.getElementById("logContainer");
+                    logContainer.innerHTML = ""; // Clear logs
+
+                    data.forEach(log => {
+                        let logDiv = document.createElement("div");
+                        logDiv.className = "log";
+                        if (log.includes("[ALERT]")) { logDiv.classList.add("alert"); } 
+                        logDiv.textContent = log;
+                        logContainer.appendChild(logDiv);
+                    });
+                });
+        }
+
+        setInterval(fetchLogs, 2000);  // Auto-refresh every 2 sec
+        window.onload = fetchLogs;  // Load logs on page load
+    </script>
+</head>
+<body>
+    <h1>DNS Spoofing Detection Tool</h1>
+    <div class="log-container" id="logContainer">Loading logs...</div>
+</body>
+</html>
+

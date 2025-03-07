@@ -4,3 +4,130 @@
 [2025-03-07 00:03:35] DNS Query: google.com.
 [2025-03-07 00:03:35] DNS Query: google.com.
     ↳ Resolved IP: 2404:6800:4007:82c::200e
+[2025-03-07 00:44:56] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:44:56] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:44:56] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:44:56] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:44:56] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:44:56] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:44:56] [ALERT] Spoofing Detected! google.com. -> Fake IP: 2404:6800:4007:827::200e (Expected: 142.250.207.206)
+[2025-03-07 00:45:02] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:02] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:02] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:02] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 2404:6800:4003:c05::6c (Expected: 142.251.175.108)
+[2025-03-07 00:45:07] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:07] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:07] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:07] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:07] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:07] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 2404:6800:4003:c05::6c (Expected: 142.251.175.108)
+[2025-03-07 00:45:13] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:13] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:13] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:13] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:13] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:13] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:13] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:13] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 2404:6800:4003:c05::6c (Expected: 142.251.175.108)
+[2025-03-07 00:45:19] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:19] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:20] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:20] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:20] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:20] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:20] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:20] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:20] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:20] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 2404:6800:4003:c05::6c (Expected: 142.251.175.108)
+[2025-03-07 00:45:25] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:25] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:26] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:26] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:26] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:26] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:26] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:26] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:26] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:26] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:26] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:26] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 2404:6800:4003:c05::6c (Expected: 142.251.175.108)
+[2025-03-07 00:45:31] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:31] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:31] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 2404:6800:4003:c05::6c (Expected: 142.251.175.108)
+[2025-03-07 00:45:37] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:37] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:37] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:37] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:37] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:37] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:38] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:38] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:38] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:38] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:38] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:38] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:39] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:39] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:39] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:39] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 2404:6800:4003:c05::6c (Expected: 142.251.175.108)
+[2025-03-07 00:45:43] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:43] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:43] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:43] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:43] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:44] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:45] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:45] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 2404:6800:4003:c05::6c (Expected: 142.251.175.108)
+[2025-03-07 00:45:50] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:50] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:50] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:51] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:51] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:51] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:51] [+] DNS Query: smtp.gmail.com. -> 142.251.175.108
+[2025-03-07 00:45:51] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 2404:6800:4003:c05::6c (Expected: 142.251.175.108)
+[2025-03-07 00:45:55] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:55] [+] DNS Query: google.com. -> 142.250.207.206
+[2025-03-07 00:45:55] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 142.251.175.108 (Expected: 74.125.68.108)
+[2025-03-07 00:46:01] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 142.251.175.108 (Expected: 74.125.68.108)
+[2025-03-07 00:46:06] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 142.251.175.108 (Expected: 74.125.68.108)
+[2025-03-07 00:46:11] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 142.251.175.108 (Expected: 74.125.68.108)
+[2025-03-07 00:46:16] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 142.251.175.108 (Expected: 74.125.68.108)
+[2025-03-07 00:46:22] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 142.251.175.108 (Expected: 74.125.68.108)
+[2025-03-07 00:46:27] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 142.251.175.108 (Expected: 74.125.68.108)
+[2025-03-07 00:46:33] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 142.251.175.108 (Expected: 74.125.68.108)
+[2025-03-07 00:46:38] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 142.251.175.108 (Expected: 74.125.68.108)
+[2025-03-07 00:46:43] [ALERT] Spoofing Detected! smtp.gmail.com. -> Fake IP: 142.251.175.108 (Expected: 74.125.68.108)
