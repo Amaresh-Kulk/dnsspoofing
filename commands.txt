@@ -1,0 +1,2 @@
+Run it with root privileges: sudo python3 dns_sniffer.py
+Start browsing or use nslookup to generate DNS traffic: nslookup google.com

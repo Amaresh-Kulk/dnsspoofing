@@ -1,0 +1,6 @@
+[2025-03-07 00:03:35] DNS Query: google.com.
+[2025-03-07 00:03:35] DNS Query: google.com.
+    ↳ Resolved IP: 142.250.196.174
+[2025-03-07 00:03:35] DNS Query: google.com.
+[2025-03-07 00:03:35] DNS Query: google.com.
+    ↳ Resolved IP: 2404:6800:4007:82c::200e
